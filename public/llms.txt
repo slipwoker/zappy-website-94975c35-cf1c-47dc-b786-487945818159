@@ -1,0 +1,57 @@
+# שביל הריפוי — Generative Engine Optimization Map
+
+> A בריאות ורווחה business.
+
+---
+
+## Pages
+
+### בית
+https://-94975c35.zappy5.app
+גלו קינסיולוגיה מקצועית המספקת תוצאות אמיתיות. צרו קשר היום לייעוץ חינם!
+
+### טיפולים
+https://-94975c35.zappy5.app/services
+גלו את מגוון הטיפולים המקצועיים שלנו בקינסיולוגיה - טיפול לילדים, חרדה, טראומה ועוד. פתרונות טבעיים ומותאמים אישית.
+
+### אודות
+https://-94975c35.zappy5.app/about
+הכירו את צוות המטפלים המקצועיים שלנו בשביל הריפוי. מומחים בקינסיולוגיה עם ניסיון רב בטיפול טבעי ואלטרנטיבי.
+
+### צור קשר
+https://-94975c35.zappy5.app/contact
+צרו קשר עם שביל הריפוי לייעוץ ראשוני חינם. נשמח לענות על כל שאלה ולקבוע פגישה לטיפול בקינסיולוגיה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-94975c35.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-94975c35.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-94975c35.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שביל הריפוי
+שביל הריפוי is a business in the בריאות ורווחה industry.
+
+## Target Audience
+אנשים המחפשים טיפול אלטרנטיבי, ילדים עם בעיות התנהגותיות או קשיים חינוכיים, אנשים המתמודדים עם חרדה, לחץ וטראומות
+
+## Industry
+בריאות ורווחה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-94975c35.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-94975c35.zappy5.app/robots.txt
